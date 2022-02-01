@@ -28,3 +28,8 @@ https://portal.azure.com/#@hevanthikamoutlook.onmicrosoft.com/resource/subscript
 __As an explorative approach, with the embed code obtained from the Azure Web App Bot, the Chatbot is put into usage in a simple custom website to indicate its use case. And hence this "COVID-19 Assistive Chatbot" built to succour Healthcare would wholly achieve its cause to provide vital, necessary and accurate timely information about the virus which is affecting people worldwide and help us fight against this disease strongly.__
 # CHATBOT SITE LINK
 https://sites.google.com/view/covid-19-assistive-chatbot/home
+
+![Screenshot (757)](https://user-images.githubusercontent.com/83343293/152024860-49d081f0-d503-4b71-ade4-483a5adeadc3.png)
+![Screenshot (755)](https://user-images.githubusercontent.com/83343293/152024917-86ae2d67-c607-4409-9df2-1af20002ed85.png)
+
+
