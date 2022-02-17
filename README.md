@@ -1,7 +1,7 @@
 # COVID-19 Assistive Chatbot
 __COVID-19 Assistive Chatbot is an interactive tool to help patients get answers to their questions and for an assessment of symptoms related to coronavirus. This would enable sharing of information about COVID-19 instantly to people around the globe and would be accessible 24/7. This would aid people in multiple ways by providing accurate and needful information about the disease thus helping them to know about the virus distinctly and what next to do to get treated best. The COVID-19 aid specialized chatbot can also clear various doubts related to the disease.__
 
-_This COVID-19 Assistive Chatbot is created using Azure Cognitive Services, QnA maker and Web App Bot service in Azure. It is deployed in Azure and acts as a full-fledged Web App Bot in the Azure platform. The name of the Azure Web App Bot is "hey-bot"._
+_This COVID-19 Assistive Chatbot is created using __Azure Cognitive Services, QnA maker and Web App Bot Service__ in Azure. It is deployed in Azure and acts as a full-fledged Web App Bot in the Azure platform. The name of the Azure Web App Bot is __"hey-bot"__._
 
 __Firstly, a QnA Maker namely hey-bot was created in the Azure platform using Azure Cognitive Services.__
 
